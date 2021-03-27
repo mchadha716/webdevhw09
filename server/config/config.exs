@@ -8,6 +8,9 @@
 use Mix.Config
 
 config :events_spa,
+  mix_env: "#{Mix.env()}"
+
+config :events_spa,
   ecto_repos: [EventsSpa.Repo]
 
 # Configures the endpoint
