@@ -1,3 +1,3 @@
 # webdevhw09
 
-# Project created by referencing Professor Tuck's GitHub notes from class
+Project created by referencing Professor Tuck's GitHub notes from class
